@@ -9,7 +9,7 @@ A **basic and responsive calculator** built using **HTML, CSS, and JavaScript**.
 - ✅ Instant calculations without page reload.
 
 ## 🎮 Live Demo
-🔗 [Try it here](https://darshanpurohit07.github.io/calculator/)
+🔗 [Try it here](https://darshanpurohit07.github.io/Calculator/)
 
 ## 🛠️ Technologies Used
 - **HTML** - For structuring the calculator.
@@ -32,7 +32,7 @@ A **basic and responsive calculator** built using **HTML, CSS, and JavaScript**.
 2. Navigate to the project folder:
    cd calculator
    
-3.Open index.html in your browser.
+3. Open index.html in your browser.
 
 📜 License
 This project is open-source .
