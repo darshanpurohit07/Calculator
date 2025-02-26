@@ -27,7 +27,7 @@ A **basic and responsive calculator** built using **HTML, CSS, and JavaScript**.
 
 ## 🔧 How to Run Locally
 1. Clone the repository:
-   git clone https://github.com/darshanpurohit07/calculator.git
+   git clone https://github.com/darshanpurohit07/Calculator.git
    
 2. Navigate to the project folder:
    cd calculator
