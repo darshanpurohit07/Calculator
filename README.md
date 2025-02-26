@@ -17,7 +17,7 @@ A **basic and responsive calculator** built using **HTML, CSS, and JavaScript**.
 - **JavaScript** - For handling calculations.
 
 ## 📸 Screenshot
-![Calculator Preview](https://your-image-link.png)
+![Calculator Preview]
 <img width="551" alt="image" src="https://github.com/user-attachments/assets/438f48c7-c166-4771-8c80-bfd1f4dcf2da" />
 
 
