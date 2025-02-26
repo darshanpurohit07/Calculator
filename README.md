@@ -18,6 +18,8 @@ A **basic and responsive calculator** built using **HTML, CSS, and JavaScript**.
 
 ## 📸 Screenshot
 ![Calculator Preview](https://your-image-link.png)
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/438f48c7-c166-4771-8c80-bfd1f4dcf2da" />
+
 
 ## 📌 How to Use
 1️⃣ Enter numbers using the on-screen buttons.  
